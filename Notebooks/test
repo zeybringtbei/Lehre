@@ -1,3 +1,0 @@
-from or.tools import aas
-a=1
-print(a)
