@@ -6,7 +6,7 @@ In den hier angebotenen Skripten sind einige mathematische Optimierungsmodelle a
 * Eine komforable und kostenfreier Editor ist [Visual Studio Code](https://code.visualstudio.com/)
 * Eine allgemeine Anleitung zum Umgang mit Python finden Sie entweder im Web oder im Moodle Kurs **Optimierungsverfahren - Implementierung und Anwendung** (Master Seminar)
 
-Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw. die "OR-Tools" verwendet.
+Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw. die [Google OR-Tools](https://developers.google.com/optimization) verwendet.
 
 Die angebotenen Jupyter Notebooks können 
 * unter https://colab.research.google.com/ hochgeladen und ausgeführt werden (erfordert einen Google Account)
