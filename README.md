@@ -1,7 +1,11 @@
 # BWLII
 Skripts &amp; Optimierungsmodelle für BWLII
 
-In den hier angebotenen Skripten sind einige mathematische Optimierungsmodelle aus der Vorlesung BWLII - Produktion in Python implementiert.
+In den hier angebotenen Skripten sind einige mathematische Optimierungsmodelle aus der Vorlesung BWLII - Produktion in **Python** implementiert.
+* Zum Ausführen des Codes wird eine aktuelle Python Version (>3.6) benötigt ([Link](https://www.python.org/downloads/)) 
+* Eine komforable und kostenfreier Editor ist [Visual Studio Code](https://code.visualstudio.com/)
+* Eine allgemeine Anleitung zum Umgang mit Python finden Sie entweder im Web oder im Moodle Kurs **Optimierungsverfahren - Implementierung und Anwendung** (Master Seminar)
+
 Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw. die "OR-Tools" verwendet.
 
 Die angebotenen Jupyter Notebooks können 
