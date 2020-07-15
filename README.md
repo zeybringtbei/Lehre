@@ -23,6 +23,6 @@ Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw.
 * Eine allgemeine Anleitung zum Umgang mit Python finden Sie entweder im Web oder im Moodle Kurs **Optimierungsverfahren - Implementierung und Anwendung** (Master Seminar, keine Zutrittbeschränkung)
 * Es müssen zunächst die OR Tools via 
 ```
-python -m pip install ortools_ 
+python -m pip install ortools 
 ```
 installiert werden
