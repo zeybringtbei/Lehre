@@ -10,6 +10,7 @@ Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw.
 * es wird ein Google Account benötigt, eine Installation ist nicht notwendig
 * der Lösungsvorgang wird durch ctrl+f9 getriggert 
 ## Links zu den Modellen
+* [Deckungsbeitrag] (https://colab.research.google.com/drive/1fqDsTUp-t-2XtfbK_9qL7kxhC9eZPgGY?usp=sharing)
 * [MIP Standort](https://colab.research.google.com/drive/10B82zAoBaUyhxUjr3VNlhhSiNPs9AUoa?usp=sharing) (ausführlich gecoded)
 * [MIP Standort](https://colab.research.google.com/drive/1qEFvXmiMBi9AkOLOGj6wD5Xk3T05hftE?usp=sharing) (kompakt gecoded)
 * [SALBP1](https://colab.research.google.com/drive/1sjqX_7IK_bb-_CyTytvugFoYZn7B11Kh?usp=sharing)
