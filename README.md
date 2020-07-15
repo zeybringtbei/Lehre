@@ -9,6 +9,12 @@ Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw.
 
 * es wird ein Google Account benötigt, eine Installation ist nicht notwendig
 * der Lösungsvorgang wird durch ctrl+f9 getriggert 
+## Links zu den Modellen
+* [MIP Standort](https://colab.research.google.com/drive/10B82zAoBaUyhxUjr3VNlhhSiNPs9AUoa?usp=sharing) (ausführlich gecoded)
+* [MIP Standort](https://colab.research.google.com/drive/1qEFvXmiMBi9AkOLOGj6wD5Xk3T05hftE?usp=sharing) (kompakt gecoded)
+* [SALBP1](https://colab.research.google.com/drive/1sjqX_7IK_bb-_CyTytvugFoYZn7B11Kh?usp=sharing)
+* [SLULSP](https://colab.research.google.com/drive/1hhP1X5gk5vHmRTpF7shiTqYHHQBaY-q2?usp=sharing)
+
 
 # Ausführung auf dem eigenen PC/Mac
 * Zum Ausführen des Codes wird eine aktuelle Python Version (>3.6) benötigt ([Link](https://www.python.org/downloads/)) 
