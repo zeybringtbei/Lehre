@@ -1,7 +1,7 @@
-# BWLII
-Hier finden Sie Skripts &amp; Optimierungsmodelle für BWLII - Produktion 
+# Optimierungsmodelle aus der Lehre
+Hier finden Sie Skripts &amp; Optimierungsmodelle für BWLII - Produktion / Produktion und Logistikmanagement / (Sustainable) Supply Chain Management
 
-In den hier angebotenen Skripten sind einige mathematische Optimierungsmodelle aus der Vorlesung BWLII - Produktion in **Python** implementiert.
+In den hier angebotenen Skripten sind einige mathematische Optimierungsmodelle aus der Vorlesung in **Python** implementiert.
 
 Zum Lösen wird der frei verfügbare Solver "Glop Linear Solver" von Google bzw. die [Google OR-Tools](https://developers.google.com/optimization) verwendet.
 
