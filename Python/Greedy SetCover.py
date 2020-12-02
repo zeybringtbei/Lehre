@@ -1,7 +1,12 @@
 from colorama import init, Fore, Style
 
+"""
+    Minimum Working Example (MWE) für die Greedy Heuristik zur Lösung des Set Cover Problems 
+    Übung: Supply Chain Management
+"""
+
 i = 1
-#print_data(H_s, S_o, H)
+
 
 
 def print_data(H_s, S_o, S):
